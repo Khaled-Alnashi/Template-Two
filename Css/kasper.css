@@ -20,7 +20,7 @@ html {
 }
 body {
     font-family: 'Open Sans', sans-serif; 
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(subscribe.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
